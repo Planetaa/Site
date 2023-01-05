@@ -1,0 +1,7 @@
+User-agent: YandexBot
+Allow: /
+Sitemap: https://planetmod.ml/sitemap1.xml
+
+User-agent: GoogleBot
+Allow: /
+Sitemap: https://planetmod.ml/sitemap1.xml
